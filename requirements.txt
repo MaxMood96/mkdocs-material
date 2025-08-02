@@ -36,3 +36,4 @@ requests~=2.26
 # Temporarily pin click until this is resolved in MkDocs, see
 # https://github.com/mkdocs/mkdocs/issues/4014#issuecomment-3146508306
 click<8.2.2
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
