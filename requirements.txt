@@ -33,3 +33,4 @@ paginate>=0.5
 backrefs>=5.7.post1
 requests>=2.30
 
+urllib3>=2.6.3 # not directly required, pinned by Snyk to avoid a vulnerability
